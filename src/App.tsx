@@ -27,7 +27,7 @@ export default function App() {
           호주 <span className="text-[10px]">〉</span> 시드니 <span className="text-[10px]">〉</span> 투어
         </div>
         <h1 className="text-[28px] md:text-[34px] font-bold leading-tight mb-5 text-[#212529]">
-          [소규모 반나절 투어] 블랙스완/박쥐/코스탈 워크 센테니얼파크+동부 해안 코스
+          [소규모 반나절 투어] 시드니 시내에서 만나는 블랙스완/박쥐/코스탈 워크! (센테니얼파크+동부 해안 코스)
         </h1>
         
         <div className="flex items-center justify-between border-b pb-6">
